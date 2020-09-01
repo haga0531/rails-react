@@ -1,0 +1,3 @@
+Post.create(title: "Lorem ipsum dolor sit amet", content: "Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet")
+Post.create(title: "consectetur adipiscing elit", content: "Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa")
+Post.create(title: "Integer nec odio", content: "Vestibulum lacinia arcu eget nulla.")
